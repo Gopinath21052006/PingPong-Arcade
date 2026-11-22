@@ -2,7 +2,7 @@
 	"FileVersion": 3,
 	"EngineAssociation": "5.8",
 	"Category": "",
-	"Description": "Retro Pong arcade game",
+	"Description": "Retro Ping Pong Arcade game created by Gopinath R",
 	"Plugins": [
 		{
 			"Name": "PythonScriptPlugin",

@@ -147,6 +147,8 @@ PingPong/
 
 ---
 
-## 📄 License
+## 👨‍💻 Author & License
 
-This project is licensed under the **MIT License** — free to use, modify, and distribute.
+**Developer / Creator**: **Gopinath R**
+
+This project is licensed under the **MIT License** (Copyright (c) 2026 Gopinath R) — free to use, modify, and distribute.
