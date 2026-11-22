@@ -2,7 +2,7 @@
 
 A 1980s-style retro arcade table tennis game built 100% in **Unreal Engine 5.8** using **Pure Blueprints** (Content-Only). No C++ compiler or Visual Studio required!
 
-![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Engine](https://img.shields.io/badge/Unreal_Engine-5.8-black) ![Type](https://img.shields.io/badge/Architecture-Pure_Blueprint-orange) ![License](https://img.shields.io/badge/License-MIT-green)
+![Platform](https://img.shields.io/badge/Platform-Windows-blue) ![Engine](https://img.shields.io/badge/Unreal_Engine-5.8-black) ![Type](https://img.shields.io/badge/Architecture-Pure_Blueprint-orange) ![Author](https://img.shields.io/badge/Author-Gopinath_R-blueviolet) ![License](https://img.shields.io/badge/License-MIT-green)
 
 ---
 
